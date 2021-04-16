@@ -37,7 +37,7 @@
     "express": "^4.16.4",
     "howler": "^2.1.2",
     "lodash": "^4.17.15",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.0",
     "qs": "^6.9.0",
     "vue-spinner": "^1.0.3",
     "vue-sticky-directive": "^0.0.10",
